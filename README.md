@@ -28,12 +28,33 @@ Olá, meu nome é Lana!! ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐
 ![.NET](https://img.shields.io/badge/.NET-70ffef?style=flat&logo=.net&logoColor=black)
 
 
-<br/>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=lanatucci&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+  />
 
-<a href="https://github.com/lanatucci" title="Perfil da Lana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lanatucci&theme=dracula&show_icons=true" />
-</a>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanatucci&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 ## Conecte-se comigo!! ૮₍˶ᵔ ᵕ ᵔ˶ ₎ა
