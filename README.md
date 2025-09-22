@@ -27,7 +27,7 @@ Olá, meu nome é Lana!! ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐
 ![Git](https://img.shields.io/badge/-Git-b4d8d4?style=flat&logo=git)
 ![.NET](https://img.shields.io/badge/.NET-70ffef?style=flat&logo=.net&logoColor=black)
 
-
+![snake gif](https://github.com/lanatucci/lanatucci/blob/output/github-contribution-grid-snake.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanatucci&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanatucci&layout=compact&theme=dracula)
